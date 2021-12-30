@@ -1,5 +1,5 @@
 package practice
 
-func SayHi() string {
+func SayHello() string {
         return string("hello from GitHub")
 }
